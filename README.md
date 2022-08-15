@@ -28,6 +28,3 @@ Repository Ini Berisikan Pengalamanku Belajar di Dicoding
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
-
-+ afdfdsfdsf
-+ fasdfsfsd
